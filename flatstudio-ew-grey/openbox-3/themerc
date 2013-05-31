@@ -22,7 +22,7 @@ menu.items.text.color: #eeeeee
 menu.items.disabled.text.color: #AAAAAA
 
 menu.items.active.bg: flat solid
-menu.items.active.bg.color:  #0072E1
+menu.items.active.bg.color:  #808080
 menu.items.active.text.color: #ffffff
 !!
 osd.bg: flat solid
@@ -32,7 +32,7 @@ osd.bg.colorTo: #1b1b1b
 osd.label.bg: parentrelative
 
 osd.hilight.bg: flat solid
-osd.hilight.bg.color: #049bfa
+osd.hilight.bg.color: #808080
 
 osd.unhilight.bg: flat solid
 osd.unhilight.bg.color: #494949
